@@ -1,0 +1,17 @@
+C:\Users\hachi\source\repos\ObjectWCFBun\obj\Debug\ObjectWCFBun.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\ObjectWCFBun\obj\Debug\ObjectWCFBun.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\ObjectWCFBun.dll
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\ObjectWCFBun.pdb
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\PostCommentBun.dll
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\EntityFramework.dll
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\PostCommentBun.pdb
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\PostCommentBun.dll.config
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\EntityFramework.xml
+C:\Users\hachi\source\repos\ObjectWCFBun\obj\Debug\ObjectWCFBun.csproj.CopyComplete
+C:\Users\hachi\source\repos\ObjectWCFBun\obj\Debug\ObjectWCFBun.dll
+C:\Users\hachi\source\repos\ObjectWCFBun\obj\Debug\ObjectWCFBun.pdb
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\ObjectWCFBun.dll.config
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hachi\source\repos\ObjectWCFBun\bin\Debug\EntityFramework.SqlServer.xml

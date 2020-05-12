@@ -1,0 +1,9 @@
+C:\Users\hachi\source\repos\PostCommentClient\bin\Debug\PostCommentClient.exe.config
+C:\Users\hachi\source\repos\PostCommentClient\bin\Debug\PostCommentClient.exe
+C:\Users\hachi\source\repos\PostCommentClient\bin\Debug\PostCommentClient.pdb
+C:\Users\hachi\source\repos\PostCommentClient\obj\Debug\PostCommentClient.csprojAssemblyReference.cache
+C:\Users\hachi\source\repos\PostCommentClient\obj\Debug\PostCommentClient.Properties.Resources.resources
+C:\Users\hachi\source\repos\PostCommentClient\obj\Debug\PostCommentClient.csproj.GenerateResource.cache
+C:\Users\hachi\source\repos\PostCommentClient\obj\Debug\PostCommentClient.csproj.CoreCompileInputs.cache
+C:\Users\hachi\source\repos\PostCommentClient\obj\Debug\PostCommentClient.exe
+C:\Users\hachi\source\repos\PostCommentClient\obj\Debug\PostCommentClient.pdb
